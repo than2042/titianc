@@ -1,4 +1,8 @@
 jack is standing behind rose, his arms wide apart.
 jack is sitting with rose, cal and rose's mother.
+<<<<<<< HEAD
 jack is standing as cal starting to firght to him. 
 the famous actress joins with them again but they are frighting.
+=======
+the famous actress joins with them for play card.
+>>>>>>> famous

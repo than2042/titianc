@@ -1,3 +1,7 @@
 Rose's mother is sitting with jack, rose and cal at the dinner table.
+<<<<<<< HEAD
 she is supporting cal as she wants rose to marry him
 the famous actress joins again but cal frighting with jack.
+=======
+the famous actress joins with them for play card.
+>>>>>>> famous
